@@ -1,4 +1,4 @@
-AndroidX Browser (Custom Tabs) — Borrow Chrome, Don’t Rebuild It
+# AndroidX Browser (Custom Tabs) — Borrow Chrome, Don’t Rebuild It
 
 This project is a simple, modern demonstration of how to open web content inside your Android app using AndroidX Browser (Custom Tabs) — the same technology powering BrowserX in Android 15+.
 
@@ -6,7 +6,7 @@ Instead of embedding a WebView or relying on external Intents, Custom Tabs let y
 
 Full Video here https://www.youtube.com/watch?v=Y5XBR_riEno
 
-🚀 Features
+## 🚀 Features
 
 Launch URLs using CustomTabsIntent
 
@@ -20,7 +20,7 @@ Uses modern APIs with updated best practices
 
 Works on Android 14 & Android 15 (BrowserX)
 
-🧠 Why Custom Tabs / BrowserX?
+## 🧠 Why Custom Tabs / BrowserX?
 
 Faster page loads
 
@@ -34,12 +34,9 @@ No need to build your own WebView browser
 
 Perfect for external links like blog posts, help pages, docs, product pages
 
-### 🔧 Requirements
+## 🔧 Requirements
 
 Android Studio Ladybug or newer
-
 Kotlin
-
 AndroidX Browser Library
-
 Internet permission
